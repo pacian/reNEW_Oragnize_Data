@@ -1,12 +1,12 @@
 # reNEW Organizing Your Data
-#reNEW_Group/
-#├── Genomics/
-#│   ├── Projects/
-#│   │   ├── Project_A/
-#│   │   │   ├── Raw_Data/
-#│   │   │   ├── Processed_Data/
-#│   │   │   └── Reports/
-#│   │   ├── Project_B/
+# reNEW_Group/
+# ├── Genomics/
+# │   ├── Projects/
+# │   │   ├── Project_A/
+# │   │   │   ├── Raw_Data/
+# │   │   │   ├── Processed_Data/
+# │   │   │   └── Reports/
+# │   │   ├── Project_B/
 │   │   │   ├── Raw_Data/
 │   │   │   ├── Processed_Data/
 │   │   │   └── Reports/
