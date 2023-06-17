@@ -1,5 +1,7 @@
 ## reNEW Organize Data Directory
 
+[![Research Data Life Cycle](/main/data-life-cycle_DTU.png?raw=true "Research Data Life Cycle")](https://bit.ly/reNEW_RDM)
+
 ### Each scientific area (Genomics, Microscopy, Tissue Culture, Flow Cytometry) has its directory in this structure. Within each area are directories for different Projects, each with folders for 
 ### Raw_Data, Processed_Data, and Reports. Additionally, each scientific site has directories for Protocols, Tools, and Resources relevant to that area.
 
