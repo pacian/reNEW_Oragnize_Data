@@ -17,7 +17,7 @@
 ### Remember, creating an intuitive system that works for the reNEW Group's needs is the most important thing. The exact folder structure and naming convention need to be adjusted accordingly.
 
 
-# reNEW_Group/
+# reNEW_Group/                                     
 ##   ├── Genomics/
 ### │   ├── Projects/
 ### │   │   ├── Project_A/
