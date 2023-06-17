@@ -1,4 +1,7 @@
 ## reNEW Organize Data Directory
+ 
+<img src="https://raw.githubusercontent.com/elixir-europe/rdmkit/master/assets/img/RDMkit_logo.svg" alt="RDMkit logo" width="450"/>     
+<img src="https://data-champions.renew-platforms.dk/renew-data-champions/rdm-infographic-series/research-data-life-cycle.jpeg" alt="RDM Life Cycle logo" width="450"/> 
 
 ### Each scientific area (Genomics, Microscopy, Tissue Culture, Flow Cytometry) has its directory in this structure. Within each area are directories for different Projects, each with folders for 
 ### Raw_Data, Processed_Data, and Reports. Additionally, each scientific site has directories for Protocols, Tools, and Resources relevant to that area.
