@@ -1,7 +1,5 @@
 ## reNEW Organize Data Directory
 
- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
 ### Each scientific area (Genomics, Microscopy, Tissue Culture, Flow Cytometry) has its directory in this structure. Within each area are directories for different Projects, each with folders for 
 ### Raw_Data, Processed_Data, and Reports. Additionally, each scientific site has directories for Protocols, Tools, and Resources relevant to that area.
 
