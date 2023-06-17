@@ -1,3 +1,5 @@
+## reNEW Organize Data Directory
+
 ### Each scientific area (Genomics, Microscopy, Tissue Culture, Flow Cytometry) has its directory in this structure. Within each area are directories for different Projects, each with folders for 
 ### Raw_Data, Processed_Data, and Reports. Additionally, each scientific site has directories for Protocols, Tools, and Resources relevant to that area.
 
